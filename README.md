@@ -8,6 +8,8 @@ This repository **Homelab-Development-Blog** will contain walkthroughs, configur
 
 > :warning: Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
+Check out the [Wiki](https://github.com/Rock-Lake/Homelab-Development-Blog/wiki) for my walkthroughs on my journey to develop a homelab.
+
 ## Contribution
 
 As this is my personal Homelab documentation, I don't accept any contributions. But feel free to fork this repository and use it for your own documentation.
